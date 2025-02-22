@@ -3,4 +3,4 @@
 * The Math-Util library that offers multiple math functions (a Java-base source code)
 * Unit Testing source code with JUnit framework 
 *...
-####© 2025 thanhthao2004qn
+#### © 2025 thanhthao2004qn
